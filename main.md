@@ -3,7 +3,7 @@ This is a collection of open resources for MIT folks. *Stay tuned for more!*
 ## Zotero
 [Zotero](https://www.zotero.org/) is an open-source citation management software. You can use it to manage your bibliographic data and related materials. 
 
-- Video: [Downloading and annotating a reference in Zotero](https://agamble.info)
+- Video: [Downloading and annotating a reference in Zotero](https://github.com/amgamble/open-resources/blob/main/zotero.md)
  
 ## PubPub
 Created at MIT, [PubPub](https://www.pubpub.org/) is an open-source, community-led, end-to-end publishing platform.
