@@ -1,7 +1,8 @@
 <div class="banner">
   <div>
-    <h1>Zotero: A short introduction
-    <img src=" " alt="Zotero logo with red Z"> </h1>
+    <h1>
+    <img src="zotero-logo.png" alt="Zotero logo with red Z">
+    Zotero: A short introduction</h1><br>
     <h5>Sign up for free today</h5>
   </div>  
 </div>
